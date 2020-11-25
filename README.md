@@ -71,7 +71,7 @@ print("==================================================================")
 
 Setelah memasukan syntax diatas dan kalian run, maka akan mendapatkan hasil output seperti gambar dibawah ini
 
-![praktikum4](foto9/hasil2.PNG)<br>
+![praktikum4](foto9/upik2.PNG)<br>
 ____________________________________________________________________________________________________________________________________________
 Lanjut pada soal terakhir, yang dimana disini saya diminta untuk membuat sebuah Flowchart dari diatas
 
